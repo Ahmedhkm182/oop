@@ -1,0 +1,14 @@
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\bin\Debug\net9.0\Task 4 Inhert.exe
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\bin\Debug\net9.0\Task 4 Inhert.deps.json
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\bin\Debug\net9.0\Task 4 Inhert.runtimeconfig.json
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\bin\Debug\net9.0\Task 4 Inhert.dll
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\bin\Debug\net9.0\Task 4 Inhert.pdb
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\obj\Debug\net9.0\Task 4 Inhert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\obj\Debug\net9.0\Task 4 Inhert.AssemblyInfoInputs.cache
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\obj\Debug\net9.0\Task 4 Inhert.AssemblyInfo.cs
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\obj\Debug\net9.0\Task 4 Inhert.csproj.CoreCompileInputs.cache
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\obj\Debug\net9.0\Task 4 Inhert.dll
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\obj\Debug\net9.0\refint\Task 4 Inhert.dll
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\obj\Debug\net9.0\Task 4 Inhert.pdb
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\obj\Debug\net9.0\Task 4 Inhert.genruntimeconfig.cache
+D:\Task\c#\Task 4 Inhert\Task 4 Inhert\obj\Debug\net9.0\ref\Task 4 Inhert.dll
